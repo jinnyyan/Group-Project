@@ -1,9 +1,6 @@
-# gwcau-blue-website
-Girls Who Code Augusta University Blue Group Project
+# A Website of a Million Things
+Girls Who Code Augusta University Blue Group (2018-2019) Project
 
-This group is: Amani, Aeden, Chloe, and Hailey.
+This group is: Amani, Aeden, Chloe, Hailey, Karena, and Hannah.
 
 Led by facilitator: Jinny 
-
-Progress Check:
-- Work on 14JAN2019
